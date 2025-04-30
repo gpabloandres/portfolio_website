@@ -1,5 +1,5 @@
 # portfolio_website
-Sitio web dinámico tipo portfolio que incluye IA. 
+Proyecto de programación para estudiantes del ciclo superior y que consiste en un sitio web dinámico tipo portfolio que incluye IA. 
 
 # Mi Portfolio Web Online
-https://gpabloandresportfolioweb.streamlit.app/
+Publicado en: https://gpabloandresportfolioweb.streamlit.app/
